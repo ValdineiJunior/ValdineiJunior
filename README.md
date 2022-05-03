@@ -18,11 +18,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="right" width="150em">
+<div align="left" width="150em">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </div>
 
-<div align="left" width="150em">
+<div align="right" width="150em">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 </div>
 
