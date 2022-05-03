@@ -17,7 +17,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="right" width= "100em" height="5000em">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=vision-friendly-dark" alt="valdineijunior's most languages"/>
 </p>
 
