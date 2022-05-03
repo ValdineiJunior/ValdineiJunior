@@ -1,8 +1,4 @@
-<!-- <img align="right" width= "400em" height="300em" src="https://images.unsplash.com/photo-1558459654-c430be5b0a44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> 
-
-<img src="https://img.shields.io/twitch/status/birobirobiro?style=social" alt="Twitch Status" />
-</p>
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Valdinei Junior</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdineijunior&color=red" alt="Profile views" /> </p> -->
