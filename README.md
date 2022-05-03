@@ -1,4 +1,4 @@
-<!-- <img align="right" width= "400em" height="300em" src="https://images.unsplash.com/photo-1605712916066-e143c317df72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2JsZW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"/> -->
+<img align="right" width= "400em" height="300em" src="https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=889&q=80"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Valdinei Junior</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdineijunior&color=red" alt="Profile views" /> </p> -->
 
