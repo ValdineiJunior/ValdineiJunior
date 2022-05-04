@@ -33,7 +33,7 @@
 
 ## &nbsp;Social Links
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
 <a href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
