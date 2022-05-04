@@ -1,4 +1,4 @@
-<img align="right" width="350em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+<img align="right" width="350em" height="300em" src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdineijunior&color=red" alt="Profile views" /> </p>
 
