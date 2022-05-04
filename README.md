@@ -18,13 +18,16 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="left" width="150em">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<div align="center">
+  <a href="https://github.com/ValdineiJunior">
+    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdineiJunior_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdineiJunior&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
+<br>
 
-<div align="right" width="150em">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-</div>
+
+<div align="center">
 
 <br><br>
 
