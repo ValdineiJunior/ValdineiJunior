@@ -17,7 +17,7 @@
 
 <br><br>
 
-<div align="center"> ## ⚙️ &nbsp;GitHub Analytics </div>
+<div align="center"> <h2> ⚙️ &nbsp;GitHub Analytics </h2> </div>
 
 <div align="center">
   <a href="https://github.com/ValdineiJunior">
