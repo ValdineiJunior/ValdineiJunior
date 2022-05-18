@@ -100,9 +100,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
   <!-- ---init project--- -->
   <a
-    href="https://github.com/ValdineiJunior/RotatingNavigation"
-    target="_blank"
-  >
+    href="https://github.com/ValdineiJunior/RotatingNavigation" target="_blank">
     <img
       alt="ExpendingCards"
       src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png"
