@@ -21,7 +21,7 @@
   Projects
 </h2>
 
-<span>
+<span style="display: inline_block">
 
 <p align="left">
   <a href="https://valdineijunior.github.io/BlurryLoading/">
