@@ -39,37 +39,28 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <p align="center">
-    <a href="https://valdineijunior.github.io/HiddenSearch/" target="_blank">
-      <img
-        alt="03Project"
-        src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"
-        height="30"
-        width="40"
-      />
-    </a>
-    <br />
-    <a href="https://github.com/ValdineiJunior/HiddenSearch">HiddenSearch</a>
-  </p>
+  <a
+    href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
+    target="_blank"
+  >
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
+      alt="linkedin"
+    />
+  </a>
   <!-- ---finish project--- -->
   <!-- ---init project--- -->
-  <p align="center">
-    <a
-      href="https://valdineijunior.github.io/RotatingNavigation/"
-      target="_blank"
-    >
-      <img
-        alt="03Project"
-        src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/Screenshot.png"
-        height="30"
-        width="40"
-      />
-    </a>
-    <br />
-    <a href="https://github.com/ValdineiJunior/RotatingNavigation"
-      >HiddenSearch</a
-    >
-  </p>
+  <a
+    href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
+    target="_blank"
+  >
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
+      alt="linkedin"
+    />
+  </a>
   <!-- ---finish project--- -->
   <!-- ---init project--- -->
   <p align="center">
@@ -136,4 +127,3 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
     />
   </a>
 </p>
- 
