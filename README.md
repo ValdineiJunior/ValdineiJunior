@@ -39,7 +39,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div align="center" style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+  <a href="https://valdineijunior.github.io/ExpendingCards/">
     <img
       alt="ExpendingCards"
       src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
@@ -49,7 +49,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/BlurryLoading/" target="_blank">
+  <a href="https://valdineijunior.github.io/BlurryLoading/">
     <img
       alt="BlurryLoading"
       src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png"
@@ -59,9 +59,9 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ScrollAnimation" target="_blank">
+  <a href="https://github.com/ValdineiJunior/ScrollAnimation">
     <img
-      alt="BlurryLoading"
+      alt="ScrollAnimation"
       src="https://github.com/ValdineiJunior/ScrollAnimation/blob/main/Screenshot.png"
       width="20%"
     />
@@ -69,9 +69,9 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/OriginSix" target="_blank">
+  <a href="https://github.com/ValdineiJunior/OriginSix">
     <img
-      alt="ExpendingCards"
+      alt="OriginSix"
       src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
       width="20%"
     />
@@ -79,9 +79,9 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ProgressSteps" target="_blank">
+  <a href="https://github.com/ValdineiJunior/ProgressSteps">
     <img
-      alt="ExpendingCards"
+      alt="ProgressSteps"
       src="https://github.com/ValdineiJunior/ProgressSteps/blob/main/screenshot.png"
       width="20%"
     />
@@ -89,9 +89,9 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/HiddenSearch" target="_blank">
+  <a href="https://github.com/ValdineiJunior/HiddenSearch">
     <img
-      alt="ExpendingCards"
+      alt="HiddenSearch"
       src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"
       width="20%"
     />
@@ -99,10 +99,9 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a
-    href="https://github.com/ValdineiJunior/RotatingNavigation" target="_blank">
+  <a href="https://github.com/ValdineiJunior/RotatingNavigation">
     <img
-      alt="ExpendingCards"
+      alt="RotatingNavigation"
       src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png"
       width="20%"
     />
