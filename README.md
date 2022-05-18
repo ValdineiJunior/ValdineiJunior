@@ -34,7 +34,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 <br /><br />
 
-Projects
+<h2 align="center">Projects</h2>
 
 <div align="center" style="display: flex">
   <br />
