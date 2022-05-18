@@ -38,6 +38,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 <div style="display: inline_block">
   <br />
+  <!-- ---init project--- -->
   <p align="center">
     <a href="https://valdineijunior.github.io/HiddenSearch/" target="_blank">
       <img
@@ -50,6 +51,68 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
     <br />
     <a href="https://github.com/ValdineiJunior/HiddenSearch">HiddenSearch</a>
   </p>
+  <!-- ---finish project--- -->
+  <!-- ---init project--- -->
+  <p align="center">
+    <a
+      href="https://valdineijunior.github.io/RotatingNavigation/"
+      target="_blank"
+    >
+      <img
+        alt="03Project"
+        src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/Screenshot.png"
+        height="30"
+        width="40"
+      />
+    </a>
+    <br />
+    <a href="https://github.com/ValdineiJunior/RotatingNavigation"
+      >HiddenSearch</a
+    >
+  </p>
+  <!-- ---finish project--- -->
+  <!-- ---init project--- -->
+  <p align="center">
+    <a href="https://valdineijunior.github.io/ProgressSteps/" target="_blank">
+      <img
+        alt="03Project"
+        src="https://github.com/ValdineiJunior/ProgressSteps/blob/main/assets/Screenshot.png"
+        height="30"
+        width="40"
+      />
+    </a>
+    <br />
+    <a href="https://github.com/ValdineiJunior/ProgressSteps">HiddenSearch</a>
+  </p>
+  <!-- ---finish project--- -->
+  <!-- ---init project--- -->
+  <p align="center">
+    <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+      <img
+        alt="03Project"
+        src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/assets/Screenshot.png"
+        height="30"
+        width="40"
+      />
+    </a>
+    <br />
+    <a href="https://github.com/ValdineiJunior/ExpendingCards">HiddenSearch</a>
+  </p>
+  <!-- ---finish project--- -->
+  <!-- ---init project--- -->
+  <p align="center">
+    <a href="https://valdineijunior.github.io/OriginSix/" target="_blank">
+      <img
+        alt="03Project"
+        src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Screenshot.png"
+        height="30"
+        width="40"
+      />
+    </a>
+    <br />
+    <a href="https://github.com/ValdineiJunior/OriginSix">HiddenSearch</a>
+  </p>
+  <!-- ---finish project--- -->
 </div>
 
 ## &nbsp;Social Links
