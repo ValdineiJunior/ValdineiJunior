@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://valdineijunior.github.io/BlurryLoading/">
-  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png" width="40%" height="40%">
+  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png" width="20%" height="auto">
   </a>
   <p>
     Blurry Loading
