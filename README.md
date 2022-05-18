@@ -19,12 +19,13 @@
 
 <div align="center"> <h2> ⚙️ &nbsp;GitHub Analytics </h2> </div>
 
-<div align="center">
-  <a href="https://github.com/ValdineiJunior">
-    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdineiJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdineiJunior&layout=compact&langs_count=7&theme=tokyonight"/>
+ <p align="center">
+  <a href="https://valdineijunior.github.io/BlurryLoading/">
+  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png">
   </a>
-</div>
+  Blurry Loading
+</p>
+
 <br>
 
 <div align="center">
