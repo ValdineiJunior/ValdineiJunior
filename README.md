@@ -36,7 +36,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 <h2>Projects</h2>
 
-<div style="display: flex">
+<div style="display: flex; align-items: center">
   <br />
   <!-- ---init project--- -->
   <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
