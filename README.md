@@ -21,38 +21,34 @@
   Projects
 </h2>
 
-<span style="display: inline_block">
+<div style="display: inline_block">
 
-<p align="left">
-  <a href="https://valdineijunior.github.io/BlurryLoading/">
-  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png" width="20%" height="auto">
-  </a>
-  <p>
-    Blurry Loading
-  </p>
-</p>
+    <p align="left">
+        <a href="https://valdineijunior.github.io/BlurryLoading/">
+        <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png" width="20%" height="auto">
+        </a>
+        <p>
+          Blurry Loading
+        </p>
+      </p>
+      
+      <p align="center">
+        <a href="https://valdineijunior.github.io/HiddenSearch/">
+        <img alt="03Project" src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"  width="20%" height="auto">
+        </a>
+        <p>
+          Hidden Search
+        </p>
+      </p>
+      
+      <p align="center">
+        <a href="https://valdineijunior.github.io/RotatingNavigation/">
+        <img alt="03Project" src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png" width="20%" height="auto">
+        </a>
+      </p>
 
-<p align="center">
-  <a href="https://valdineijunior.github.io/HiddenSearch/">
-  <img alt="03Project" src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"  width="20%" height="auto">
-  </a>
-  <p>
-    Hidden Search
-  </p>
-</p>
-
-<p align="center">
-  <a href="https://valdineijunior.github.io/RotatingNavigation/">
-  <img alt="03Project" src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png" width="20%" height="auto>
-  </a>
-</p>
-                                                                                                                                      </span>
-<br>
-
-<div align="center">
-
-<br><br>
-
+</div>
+                                                                                                                                   
 ## &nbsp;Social Links
 
 <p align="center" style="background:yellow">
