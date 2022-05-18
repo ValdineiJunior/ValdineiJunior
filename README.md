@@ -47,6 +47,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
         width="40"
       />
     </a>
+    <br />
     <a href="https://github.com/ValdineiJunior/HiddenSearch">HiddenSearch</a>
   </p>
 </div>
