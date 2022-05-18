@@ -34,7 +34,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 <br /><br />
 
-<h2>Projects</h2>
+Projects
 
 <div align="center" style="display: flex">
   <br />
@@ -109,7 +109,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 </div>
 
-<div align="center"> ## ⚙️ &nbsp;GitHub Analytics </div>
+ GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/ValdineiJunior">
@@ -121,7 +121,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div align="center">
 <br><br>
 
-## &nbsp;Social Links
+Social Links
 
 <p align="center" style="background: yellow">
   <a
