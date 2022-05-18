@@ -109,6 +109,15 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 </div>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=valdineijunior&show_icons=true&theme=vision-friendly-dark" alt="valdineijunior's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=vision-friendly-dark" alt="valdineijunior's most languages"/>
+</p>
+
+<br><br>
+
 ## &nbsp;Social Links
 
 <p align="center" style="background: yellow">
