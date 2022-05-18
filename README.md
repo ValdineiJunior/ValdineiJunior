@@ -17,13 +17,13 @@
 
 <br><br>
 
-<div align="center"> <h2> ⚙️ &nbsp;GitHub Analytics </h2> </div>
-
- <p align="center">
+<p align="center">
   <a href="https://valdineijunior.github.io/BlurryLoading/">
   <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png" width="40%" height="40%">
   </a>
+  <h2>
   Blurry Loading
+  </h2>
 </p>
 
 <br>
