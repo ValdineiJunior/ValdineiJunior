@@ -21,6 +21,8 @@
   Projects
 </h2>
 
+<span>
+
 <p align="left">
   <a href="https://valdineijunior.github.io/BlurryLoading/">
   <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png" width="20%" height="auto">
@@ -41,10 +43,10 @@
 
 <p align="center">
   <a href="https://valdineijunior.github.io/RotatingNavigation/">
-  <img alt="03Project" src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png">
+  <img alt="03Project" src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png" width="20%" height="auto>
   </a>
 </p>
-
+                                                                                                                                      </span>
 <br>
 
 <div align="center">
