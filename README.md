@@ -39,7 +39,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div align="center" style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/ExpendingCards/">
+  <a href="https://github.com/ValdineiJunior/ExpendingCards">
     <img
       alt="ExpendingCards"
       src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
@@ -49,7 +49,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/BlurryLoading/">
+  <a href="https://github.com/ValdineiJunior/BlurryLoading">
     <img
       alt="BlurryLoading"
       src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png"
