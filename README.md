@@ -36,7 +36,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 <h2>Projects</h2>
 
-<div style="display: inline_block">
+<div style="display: flex">
   <br />
   <!-- ---init project--- -->
   <p align="center">
