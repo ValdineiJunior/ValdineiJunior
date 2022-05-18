@@ -40,6 +40,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <br />
   <!-- ---init project--- -->
   <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+    ExpendingCards
     <img
       alt="ExpendingCards"
       src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
@@ -50,6 +51,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
   <!-- ---init project--- -->
   <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+    ExpendingCards
     <img
       alt="ExpendingCards"
       src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
