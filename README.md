@@ -109,36 +109,45 @@ Projects
   <!-- ---finish project--- -->
 </div>
 
- GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
   <a href="https://github.com/ValdineiJunior">
-    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdineiJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdineiJunior&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img
+      width="388"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=ValdineiJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
+    <img
+      width="388"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdineiJunior&layout=compact&langs_count=7&theme=tokyonight"
+    />
   </a>
 </div>
-<br>
+<br />
 <div align="center">
-<br><br>
+  <br /><br />
 
-Social Links
+  <h2 align="center">Social Links</h2>
 
-<p align="center" style="background: yellow">
-  <a
-    href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
-    target="_blank"
-  >
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
-      alt="linkedin"
-    />
-  </a>
-  <a href="https://www.instagram.com/valdineidepaulajunior/" target="_blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=instagram"
-      alt="instagram"
-    />
-  </a>
-</p>
+  <p align="center" style="background: yellow">
+    <a
+      href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
+      target="_blank"
+    >
+      <img
+        align="center"
+        src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
+        alt="linkedin"
+      />
+    </a>
+    <a href="https://www.instagram.com/valdineidepaulajunior/" target="_blank">
+      <img
+        align="center"
+        src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=instagram"
+        alt="instagram"
+      />
+    </a>
+  </p>
+</div>
