@@ -39,70 +39,53 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <a
-    href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
-    target="_blank"
-  >
+  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
     <img
-      align="center"
-      src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
-      alt="linkedin"
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      width="20%"
     />
   </a>
   <!-- ---finish project--- -->
+
   <!-- ---init project--- -->
-  <a
-    href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
-    target="_blank"
-  >
+  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
     <img
-      align="center"
-      src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
-      alt="linkedin"
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      width="20%"
     />
   </a>
   <!-- ---finish project--- -->
+
   <!-- ---init project--- -->
-  <p align="center">
-    <a href="https://valdineijunior.github.io/ProgressSteps/" target="_blank">
-      <img
-        alt="03Project"
-        src="https://github.com/ValdineiJunior/ProgressSteps/blob/main/assets/Screenshot.png"
-        height="30"
-        width="40"
-      />
-    </a>
-    <br />
-    <a href="https://github.com/ValdineiJunior/ProgressSteps">HiddenSearch</a>
-  </p>
+  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+    <img
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      width="20%"
+    />
+  </a>
   <!-- ---finish project--- -->
+
   <!-- ---init project--- -->
-  <p align="center">
-    <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
-      <img
-        alt="03Project"
-        src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/assets/Screenshot.png"
-        height="30"
-        width="40"
-      />
-    </a>
-    <br />
-    <a href="https://github.com/ValdineiJunior/ExpendingCards">HiddenSearch</a>
-  </p>
+  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+    <img
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      width="20%"
+    />
+  </a>
   <!-- ---finish project--- -->
+
   <!-- ---init project--- -->
-  <p align="center">
-    <a href="https://valdineijunior.github.io/OriginSix/" target="_blank">
-      <img
-        alt="03Project"
-        src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Screenshot.png"
-        height="30"
-        width="40"
-      />
-    </a>
-    <br />
-    <a href="https://github.com/ValdineiJunior/OriginSix">HiddenSearch</a>
-  </p>
+  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+    <img
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      width="20%"
+    />
+  </a>
   <!-- ---finish project--- -->
 </div>
 
