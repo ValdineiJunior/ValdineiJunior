@@ -49,40 +49,66 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+  <a href="https://valdineijunior.github.io/BlurryLoading/" target="_blank">
     <img
-      alt="ExpendingCards"
-      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      alt="BlurryLoading"
+      src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png"
       width="20%"
     />
   </a>
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+  <a
+    href="https://github.com/ValdineiJunior/ScrollAnimation/blob/main/Screenshot.png"
+    target="_blank"
+  >
     <img
-      alt="ExpendingCards"
-      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      alt="ScrollAnimation"
+      src="https://github.com/ValdineiJunior/ScrollAnimation/blob/main/Layout.png"
       width="20%"
     />
   </a>
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+  <a href="https://github.com/ValdineiJunior/OriginSix" target="_blank">
     <img
       alt="ExpendingCards"
-      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
       width="20%"
     />
   </a>
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <a href="https://valdineijunior.github.io/ExpendingCards/" target="_blank">
+  <a href="https://github.com/ValdineiJunior/ProgressSteps" target="_blank">
     <img
       alt="ExpendingCards"
-      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      src="https://github.com/ValdineiJunior/ProgressSteps/blob/main/screenshot.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+
+  <!-- ---init project--- -->
+  <a
+    href="https://github.com/ValdineiJunior/RotatingNavigation"
+    target="_blank"
+  >
+    <img
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/HiddenSearch" target="_blank">
+    <img
+      alt="ExpendingCards"
+      src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"
       width="20%"
     />
   </a>
