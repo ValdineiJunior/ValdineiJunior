@@ -39,7 +39,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div align="center" style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <div>
+  <div align="center" style="display: flex">
     <a href="https://github.com/ValdineiJunior/ExpendingCards"
       >ExpendingCards</a
     >
@@ -55,7 +55,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <!-- ---finish project--- -->
 
   <!-- ---init project--- -->
-  <div>
+  <div align="center" style="display: flex">
     <a href="https://github.com/ValdineiJunior/ExpendingCards"
       >ExpendingCards</a
     >
