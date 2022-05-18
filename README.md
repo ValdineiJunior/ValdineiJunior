@@ -30,6 +30,15 @@
   </p>
 </p>
 
+<p align="center">
+  <a href="https://valdineijunior.github.io/HiddenSearch/">
+  <img alt="03Project" src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"  width="20%" height="auto">
+  </a>
+  <p>
+    Hidden Search
+  </p>
+</p>
+
 <br>
 
 <div align="center">
