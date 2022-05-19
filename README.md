@@ -1,25 +1,33 @@
 <div align="center" style="display: flex">
   <img
-    src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
-    alt="Profile views"
-  />
-  <img
     width="350em"
     height="300em"
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
   />
-  <h1>Hi, I'm Valdinei Junior</h1>
+
+  <h1>
+    <img
+      src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
+      alt="Profile views"
+    />
+    Hi, I'm Valdinei Junior
+  </h1>
+
   <br /><br />
-  ## 🛠 &nbsp;Learning about
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Visual Studio
-  Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## 🛠 &nbsp;Learning about
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio
+Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 </div>
+
 <h1 align="center">Projects</h1>
+
 <div align="center" style="display: flex">
   <br />
   <!-- ---init project--- -->
@@ -92,7 +100,9 @@
   </a>
   <!-- ---finish project--- -->
 </div>
+
 <h2 align="center">GitHub Analytics</h2>
+
 <div align="center">
   <a href="https://github.com/ValdineiJunior">
     <img
@@ -110,7 +120,9 @@
 <br />
 <div align="center">
   <br /><br />
+
   <h2 align="center">Social Links</h2>
+
   <p align="center" style="background: yellow">
     <a
       href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
