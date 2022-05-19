@@ -1,10 +1,12 @@
-<img
+<div align="center" style="display: flex">
+  <img
   style="display: flex"
   align="right"
   width="300em"
   height="auto"
   src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
 />
+</div>
 
 <p align="left">
   <img
