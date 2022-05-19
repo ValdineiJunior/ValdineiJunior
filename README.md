@@ -1,4 +1,5 @@
 <img
+  style="display: flex"
   align="right"
   width="300em"
   height="auto"
