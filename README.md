@@ -39,10 +39,10 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <div align="center" style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ExpendingCards">
+  <a href="https://github.com/ValdineiJunior/ExpandingCards">
     <img
       alt="ExpendingCards"
-      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
+      src="https://github.com/ValdineiJunior/ExpandingCards/blob/main/Layout.png"
       width="20%"
     />
   </a>
