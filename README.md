@@ -13,8 +13,6 @@
     Hi, I'm Valdinei Junior
   </h1>
 
-  <br /><br />
-
   ## 🛠 &nbsp;Learning about
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -118,7 +116,7 @@
 </div>
 <br />
 <div align="center">
-  
+
   <h2 align="center">Social Links</h2>
 
   <p align="center" style="background: yellow">
