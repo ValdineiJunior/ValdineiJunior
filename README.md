@@ -1,8 +1,8 @@
-<img align="center"
+<div align="center" style="display: flex">
+  <img
     src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
     alt="Profile views"
   />
-<div align="center" style="display: flex">
   <img
     width="350em"
     height="300em"
