@@ -5,15 +5,14 @@
   width="300em"
   height="auto"
   src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
-/>
-</div>
-
-<p align="left">
+  />
+  <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
     alt="Profile views"
   />
 </p>
+</div>
 
 <h1>
   Hi
