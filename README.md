@@ -1,4 +1,4 @@
-<div style="display: flex">
+<div align="right" style="display: flex">
 
   <img
   align="right"
@@ -7,6 +7,11 @@
   src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
 />
 
+
+</div>
+
+<div align="left" style="display: flex">
+  
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
