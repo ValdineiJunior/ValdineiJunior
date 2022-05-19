@@ -1,35 +1,31 @@
-<div align="right" style="display: flex">
+<div align="center" style="display: flex">
+  <div align="right" style="display: flex">
+    <img
+      align="right"
+      width="350em"
+      height="300em"
+      src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
+    />
+  </div>
 
-  <img
-  align="right"
-  width="350em"
-  height="300em"
-  src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
-/>
+  <div align="left" style="display: flex">
+    <p align="left">
+      <img
+        src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
+        alt="Profile views"
+      />
+    </p>
 
-
+    <h1>
+      Hi
+      <img
+        src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+        width="30px"
+      />, <br /><br />
+      I'm Valdinei Junior
+    </h1>
+  </div>
 </div>
-
-<div align="left" style="display: flex">
-  
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
-    alt="Profile views"
-  />
-</p>
-
-<h1>
-  Hi
-  <img
-    src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-    width="30px"
-  />, <br /><br />
-  I'm Valdinei Junior
-</h1>
-
-</div>
-
 
 <br /><br />
 
