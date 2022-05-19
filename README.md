@@ -6,14 +6,14 @@
   />
   </p>
   
-  <p align="left"
+  <h1 align="left"
   Hi
   <img
     src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
     width="30px"
   />, <br /><br />
   I'm Valdinei Junior
-</p>
+</h1>
   
   <img
   style="display: flex"
