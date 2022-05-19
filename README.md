@@ -2,8 +2,8 @@
     src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
     alt="Profile views"
   />
-  <img
 <div align="center" style="display: flex">
+  <img
     width="350em"
     height="300em"
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
