@@ -1,12 +1,20 @@
-<div align="right" style="display: flex">
-  <p align="left">
+<div align="center" style="display: flex">
+
+  <img
+  align="right"
+  width="350em"
+  height="300em"
+  src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
+/>
+
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
     alt="Profile views"
   />
-  </p>
-  
-  <h1 align="left"
+</p>
+
+<h1>
   Hi
   <img
     src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
@@ -14,16 +22,9 @@
   />, <br /><br />
   I'm Valdinei Junior
 </h1>
-  
-  <img
-  style="display: flex"
-  align="right"
-  width="300em"
-  height="auto"
-  src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
-  />
-  
+
 </div>
+
 
 <br /><br />
 
@@ -38,15 +39,15 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 <br /><br />
 
-<h2 align="center">Projects</h2>
+Projects
 
 <div align="center" style="display: flex">
   <br />
   <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ExpandingCards">
+  <a href="https://github.com/ValdineiJunior/ExpendingCards">
     <img
       alt="ExpendingCards"
-      src="https://github.com/ValdineiJunior/ExpandingCards/blob/main/Layout.png"
+      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
       width="20%"
     />
   </a>
@@ -111,17 +112,6 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
     />
   </a>
   <!-- ---finish project--- -->
-  
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/SplitLandingPage">
-    <img
-      alt="SplitLandingPage"
-      src="https://github.com/ValdineiJunior/SplitLandingPage/blob/main/assets/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-  
 </div>
 
 <h2 align="center">GitHub Analytics</h2>
