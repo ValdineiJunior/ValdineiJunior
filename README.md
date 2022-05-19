@@ -13,16 +13,10 @@
   </p>
 
   <h1>
-    Hi
-    <img
-      src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-      width="30px"
-    />, <br /><br />
-    I'm Valdinei Junior
+    Hi, I'm Valdinei Junior
   </h1>
-</div>
 
-<br /><br />
+  <br /><br />
 
 ## 🛠 &nbsp;Learning about
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -34,6 +28,8 @@
 Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br /><br />
+
+</div>
 
 Projects
 
