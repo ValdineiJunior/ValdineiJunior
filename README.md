@@ -1,7 +1,7 @@
 <img
   align="right"
-  width="350em"
-  height="300em"
+  width="300em"
+  height="auto"
   src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
 />
 
