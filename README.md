@@ -1,4 +1,4 @@
-<div align="center" style="display: flex">
+<div align="right" style="display: flex">
   <img
   style="display: flex"
   align="right"
