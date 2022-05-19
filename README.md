@@ -1,4 +1,10 @@
 <div align="right" style="display: flex">
+  <p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
+    alt="Profile views"
+  />
+  </p>
   <img
   style="display: flex"
   align="right"
@@ -6,12 +12,7 @@
   height="auto"
   src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
   />
-  <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
-    alt="Profile views"
-  />
-</p>
+  
 </div>
 
 <h1>
