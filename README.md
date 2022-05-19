@@ -5,6 +5,16 @@
     alt="Profile views"
   />
   </p>
+  
+  <h1>
+  Hi
+  <img
+    src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+    width="30px"
+  />, <br /><br />
+  I'm Valdinei Junior
+</h1>
+  
   <img
   style="display: flex"
   align="right"
@@ -14,15 +24,6 @@
   />
   
 </div>
-
-<h1>
-  Hi
-  <img
-    src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-    width="30px"
-  />, <br /><br />
-  I'm Valdinei Junior
-</h1>
 
 <br /><br />
 
