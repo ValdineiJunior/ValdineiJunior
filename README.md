@@ -5,14 +5,11 @@
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
   />
 
-  <p>
+  <h1>
     <img
       src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
       alt="Profile views"
     />
-  </p>
-
-  <h1>
     Hi, I'm Valdinei Junior
   </h1>
 
@@ -27,11 +24,9 @@
 ![Visual Studio
 Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br /><br />
-
 </div>
 
-Projects
+<h1 align="center">Projects</h1>
 
 <div align="center" style="display: flex">
   <br />
