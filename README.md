@@ -6,10 +6,6 @@
   />
 
   <h1>
-    <img
-      src="https://komarev.com/ghpvc/?username=valdineijunior&color=red"
-      alt="Profile views"
-    />
     Hi, I'm Valdinei Junior
   </h1>
 
