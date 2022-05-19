@@ -84,6 +84,17 @@
     />
   </a>
   <!-- ---finish project--- -->
+  
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/SplitLandingPage">
+    <img
+      alt="SplitLandingPage"
+      src="https://github.com/ValdineiJunior/SplitLandingPage/blob/main/assets/Screenshot.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+  
 </div>
 
 <h2 align="center">GitHub Analytics</h2>
