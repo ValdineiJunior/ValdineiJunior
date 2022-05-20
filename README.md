@@ -95,7 +95,7 @@
   </a>
   <!-- ---finish project--- -->
   
-    <!-- ---init project--- -->
+  <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/FormInputWave">
     <img
       alt="SplitLandingPage"
