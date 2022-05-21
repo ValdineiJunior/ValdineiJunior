@@ -18,7 +18,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/ExpendingCards">
     <img
-      alt="ExpendingCards"
       src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
       width="20%"
     />
@@ -28,7 +27,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/BlurryLoading">
     <img
-      alt="BlurryLoading"
       src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png"
       width="20%"
     />
@@ -38,7 +36,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/ScrollAnimation">
     <img
-      alt="ScrollAnimation"
       src="https://github.com/ValdineiJunior/ScrollAnimation/blob/main/Screenshot.png"
       width="20%"
     />
@@ -48,7 +45,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/OriginSix">
     <img
-      alt="OriginSix"
       src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
       width="20%"
     />
@@ -58,7 +54,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/ProgressSteps">
     <img
-      alt="ProgressSteps"
       src="https://github.com/ValdineiJunior/ProgressSteps/blob/main/screenshot.png"
       width="20%"
     />
@@ -68,7 +63,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/HiddenSearch">
     <img
-      alt="HiddenSearch"
       src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"
       width="20%"
     />
@@ -78,7 +72,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/RotatingNavigation">
     <img
-      alt="RotatingNavigation"
       src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png"
       width="20%"
     />
@@ -88,7 +81,6 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/SplitLandingPage">
     <img
-      alt="SplitLandingPage"
       src="https://github.com/ValdineiJunior/SplitLandingPage/blob/main/assets/Screenshot.png"
       width="20%"
     />
@@ -98,8 +90,16 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/FormInputWave">
     <img
-      alt="SplitLandingPage"
       src="https://github.com/ValdineiJunior/FormInputWave/blob/main/Screenshot.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+  
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/SoundBoard">
+    <img
+      src="https://github.com/ValdineiJunior/SoundBoard/blob/main/assets/Screenshot.png"
       width="20%"
     />
   </a>
