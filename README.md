@@ -11,6 +11,8 @@
   
 </div>
 
+<!-- -----------------------------------------------------------------------Projects------------------------------------------------------------------------- -->
+
 <h1 align="center">Projects</h1>
 
 <div align="center" style="display: flex">
@@ -20,6 +22,15 @@
   <a href="https://github.com/ValdineiJunior/OriginSix">
     <img
       src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+  
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/Discover">
+    <img
+      src="https://github.com/ValdineiJunior/Discover/blob/main/Rocket_Q.png"
       width="20%"
     />
   </a>
