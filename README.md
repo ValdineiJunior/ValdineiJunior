@@ -30,7 +30,7 @@
   <!-- ---init project--- -->
   <a href="https://github.com/ValdineiJunior/Discover">
     <img
-      src="https://github.com/ValdineiJunior/Discover/blob/main/Rocket_Q.png"
+      src="https://github.com/ValdineiJunior/Discover/blob/main/ScreenShot.png"
       width="20%"
     />
   </a>
