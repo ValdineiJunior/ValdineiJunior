@@ -11,7 +11,25 @@
   
 </div>
 
-<h1 align="center">My Projects</h1>
+<h1 align="center">Projects</h1>
+
+<div align="center" style="display: flex">
+  <br />
+
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/OriginSix">
+    <img
+      src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+
+</div>
+
+<!-- -----------------------------------------------------------------------Small projects------------------------------------------------------------------------- -->
+
+<h1 align="center">Small projects</h1>
 
 <div align="center" style="display: flex">
   <br />
@@ -37,15 +55,6 @@
   <a href="https://github.com/ValdineiJunior/ScrollAnimation">
     <img
       src="https://github.com/ValdineiJunior/ScrollAnimation/blob/main/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/OriginSix">
-    <img
-      src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
       width="20%"
     />
   </a>
