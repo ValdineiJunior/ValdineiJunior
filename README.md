@@ -22,7 +22,7 @@
   <a href="https://github.com/ValdineiJunior/Hackerrank">
     <img
       src="https://github.com/ValdineiJunior/Hackerrank/blob/main/screenShot.png"
-      width="20%"
+      width="80%"
     />
   </a>
   <!-- ---finish project--- -->
@@ -127,7 +127,7 @@
   <a href="https://github.com/ValdineiJunior/OriginSix">
     <img
       src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
-      width="20%"
+      width="40%"
     />
   </a>
   <!-- ---finish project--- -->
@@ -136,7 +136,7 @@
   <a href="https://github.com/ValdineiJunior/Discover">
     <img
       src="https://github.com/ValdineiJunior/Discover/blob/main/ScreenShot.png"
-      width="20%"
+      width="40%"
     />
   </a>
   <!-- ---finish project--- -->
