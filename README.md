@@ -125,6 +125,33 @@
   </a>
   <!-- ---finish project--- -->
   
+  <!-- -----------------------------------------------------------------------Projects------------------------------------------------------------------------- -->
+
+<h1 align="center">Projects</h1>
+
+<div align="center" style="display: flex">
+  <br />
+
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/OriginSix">
+    <img
+      src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+  
+  <!-- ---init project--- -->
+  <a href="https://github.com/ValdineiJunior/Discover">
+    <img
+      src="https://github.com/ValdineiJunior/Discover/blob/main/ScreenShot.png"
+      width="20%"
+    />
+  </a>
+  <!-- ---finish project--- -->
+
+</div>
+  
 </div>
 
 <h2 align="center">GitHub Analytics</h2>
