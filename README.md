@@ -6,143 +6,28 @@
   />
 
   <h1>
-    Hi, I'm Valdinei Junior
+    Olá eu sou o Valdinei Junior
   </h1>
   
 </div>
 
-<!-- -----------------------------------------------------------------------Challenges------------------------------------------------------------------------- -->
+Olá, seja muito bem vindo ao meu breve resumo. Sou Valdinei e comecei a me interessar por Tecnologia da informação no começo do ano de 2021. Depois que conheci o universo de possibilidades que essa área nos disponibiliza, virei um entusiastas da área, consumindo todo tipo de conteúdo. Cursos, podcasts, livros, blogs e entre outros.
 
-<h1 align="center">Challenges</h1>
+Pela quantidade de informação disponível na atualidade, resolvi trilhar um caminho de estudo pessoal. As principais fontes de conhecimento que utilizo no momento são, “Free Code Camp”, “Os Programadores” e a "Universidade Brasileira Livre”. Todas elas são baseadas em divulgar e dar acesso a conteúdos sobre Ciência da Computação e tecnologias de forma gratuita e de boa qualidade.
 
-<div align="center" style="display: flex">
-  <br />
+Através desses estudos, hoje tenho conhecimentos básicos sobre web design responsivo, utilizando HTML, CSS e JavaScript. Também consigo trabalhar com, Git, GitHub, a linguagem Python e o framework React. Meu interesse atual é atuar no desenvolvimento front-end, mas estou aberto a todo tipo de aprendizado.
 
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/Hackerrank">
-    <img
-      src="https://github.com/ValdineiJunior/Hackerrank/blob/main/screenShot.png"
-      width="80%"
-    />
-  </a>
-  <!-- ---finish project--- -->
+Todo conhecimento adquirido nas plataformas são seguidos por testes de proficiência. Então muitos dos projetos e aprendizados consigo enviar para o GitHub. Então caso tenha curiosidade de saber como estou codando e me desenvolvendo, vou deixar aqui embaixo o link do meu github. E também vou deixar para os interessados na área os links das plataformas que abordei nesta apresentação.
 
-</div>
+GitHub ValdineiJunior - https://github.com/ValdineiJunior
+Free Code Camp - https://www.freecodecamp.org/learn
+Os Programadores - https://osprogramadores.com/
+Universidade Brasileira Livre - https://github.com/Universidade-Livre/ciencia-da-computacao
 
-<!-- -----------------------------------------------------------------------Small projects------------------------------------------------------------------------- -->
+Caso eu possa te ajudar com qualquer dúvida, sugestão ou informação estou à disposição.
 
-<h1 align="center">Small projects</h1>
+Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
 
-<div align="center" style="display: flex">
-  <br />
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ExpendingCards">
-    <img
-      src="https://github.com/ValdineiJunior/ExpendingCards/blob/main/Layout.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/BlurryLoading">
-    <img
-      src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ScrollAnimation">
-    <img
-      src="https://github.com/ValdineiJunior/ScrollAnimation/blob/main/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/ProgressSteps">
-    <img
-      src="https://github.com/ValdineiJunior/ProgressSteps/blob/main/screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/HiddenSearch">
-    <img
-      src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/RotatingNavigation">
-    <img
-      src="https://github.com/ValdineiJunior/RotatingNavigation/blob/main/assets/ScreenShot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-  
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/SplitLandingPage">
-    <img
-      src="https://github.com/ValdineiJunior/SplitLandingPage/blob/main/assets/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-  
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/FormInputWave">
-    <img
-      src="https://github.com/ValdineiJunior/FormInputWave/blob/main/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-  
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/SoundBoard">
-    <img
-      src="https://github.com/ValdineiJunior/SoundBoard/blob/main/assets/Screenshot.png"
-      width="20%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-  
-  <!-- -----------------------------------------------------------------------Projects------------------------------------------------------------------------- -->
-
-<h1 align="center">Projects</h1>
-
-<div align="center" style="display: flex">
-  <br />
-
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/OriginSix">
-    <img
-      src="https://github.com/ValdineiJunior/OriginSix/blob/main/assets/Dark-mode.png"
-      width="40%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-  
-  <!-- ---init project--- -->
-  <a href="https://github.com/ValdineiJunior/Discover">
-    <img
-      src="https://github.com/ValdineiJunior/Discover/blob/main/ScreenShot.png"
-      width="40%"
-    />
-  </a>
-  <!-- ---finish project--- -->
-
-</div>
-  
 </div>
 
 <h2 align="center">GitHub Analytics</h2>
