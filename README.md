@@ -6,7 +6,7 @@
   />
 
   <h1>
-    Olá eu sou o Valdinei Junior
+    Valdinei Junior
   </h1>
   
 </div>
