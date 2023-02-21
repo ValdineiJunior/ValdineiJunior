@@ -21,10 +21,7 @@ Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
 
 
 <div align="center" style="display: flex">
-  <h1>
-    [Roteiro de estudos](https://github.com/ValdineiJunior/roteiro-de-estudos)
-  </h1>
-  
+  [Roteiro de estudos](https://github.com/ValdineiJunior/roteiro-de-estudos)
 </div>
 
 Caso eu possa te ajudar com qualquer dúvida, sugestão ou informação estou à disposição.
