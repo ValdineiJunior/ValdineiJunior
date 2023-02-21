@@ -57,13 +57,6 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
         alt="linkedin"
       />
     </a>
-    <a href="https://www.instagram.com/valdineidepaulajunior/" target="_blank">
-      <img
-        align="center"
-        src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=instagram"
-        alt="instagram"
-      />
-    </a>
   </p>
 </div>
 
