@@ -15,11 +15,13 @@ Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação.E um co
 Trilho um caminho de estudo pessoal em Ciência da Computação através de fontes gratuitas e de boa qualidade.
 
 Meu interesse atual é atuar no desenvolvimento front-end e estou aberto a todo tipo de aprendizado.
-
+ 
+<h2 align="center">Estudos</h2>
+ 
 Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
 
 <div align="center" style="display: flex">
-    <h1><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h1>
+    <h3><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h3>
 </div>
 </div>
 
