@@ -10,7 +10,7 @@
    Valdinei Junior
  </h1>
 
-Olá Sou Valdinei um entusiastas de tecnologia e programação em geral, consumo todo tipo de conteúdos relacionados como cursos, podcasts, livros, blogs e entre outros.
+Olá Sou Valdinei Junior, entusiastas de tecnologia e programação, e consumidor de conteúdos relacionados.
 
 Trilho um caminho de estudo pessoal em Ciência da Computação através de fontes gratuita e de boa qualidade.
 
