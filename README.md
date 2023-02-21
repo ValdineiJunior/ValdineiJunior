@@ -27,6 +27,11 @@ E atualizo semanalmente meu progresso.
 <div align="center" style="display: flex">
     <h3><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h3>
 </div>
+<img
+    width="350em"
+    height="300em"
+    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/map.png"
+  />
 </div>
 
 <h2 align="center">GitHub Analytics</h2>
