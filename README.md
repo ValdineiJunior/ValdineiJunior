@@ -17,8 +17,12 @@ Trilho um caminho de estudo pessoal em Ciência da Computação através de font
 Meu interesse atual é atuar no desenvolvimento front-end e estou aberto a todo tipo de aprendizado.
  
 <h2 align="center">Estudos</h2>
+
+Se quiser acompanhar meu roteio de estudos detalhado fica aqui meu convite.
  
-Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
+Nele compartilho todas minhas fontes de aprendizado.
+
+E atualizo semanalmente meu progresso.
 
 <div align="center" style="display: flex">
     <h3><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h3>
