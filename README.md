@@ -28,8 +28,8 @@ E atualizo semanalmente meu progresso.
     <h3><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h3>
 </div>
 <img
-    width="260em"
-    height="100em"
+    width="200em"
+    height="150em"
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/todol.png"
   />
 </div>
