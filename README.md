@@ -55,7 +55,7 @@ E atualizo semanalmente meu progresso.
 
   <p align="center" style="background: yellow">
     <a
-      href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
+      href="https://www.linkedin.com/in/valdinei-junior-009634230/"
       target="_blank"
     >
       <img
