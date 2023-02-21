@@ -33,13 +33,7 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/ValdineiJunior">
-    <img
-      width="388"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=ValdineiJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    />
-    <img
+      <img
       width="388"
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdineiJunior&layout=compact&langs_count=7&theme=tokyonight"
