@@ -18,7 +18,7 @@ Meu interesse atual é atuar no desenvolvimento front-end e estou aberto a todo 
  
 <h2 align="center">Estudos</h2>
 
-Se quiser acompanhar meu roteio de estudos detalhado fica aqui meu convite.
+Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
  
 Nele compartilho todas minhas fontes de aprendizado.
 
