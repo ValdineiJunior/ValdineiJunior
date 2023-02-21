@@ -10,11 +10,11 @@
    Valdinei Junior
  </h1>
 
-Olá, seja muito bem vindo ao meu breve resumo. Sou Valdinei e comecei a me interessar por Tecnologia da informação no começo do ano de 2021. Depois que conheci o universo de possibilidades que essa área nos disponibiliza, virei um entusiastas da área, consumindo todo tipo de conteúdo. Cursos, podcasts, livros, blogs e entre outros.
+Olá Sou Valdinei um entusiastas de tecnologia e programação em geral, consumo todo tipo de conteúdos relacionados como cursos, podcasts, livros, blogs e entre outros.
 
-Pela quantidade de informação disponível na atualidade, resolvi trilhar um caminho de estudo pessoal. As principais fontes de conhecimento que utilizo no momento são, “Free Code Camp”, “Os Programadores” e a "Universidade Brasileira Livre”. Todas elas são baseadas em divulgar e dar acesso a conteúdos sobre Ciência da Computação e tecnologias de forma gratuita e de boa qualidade.
+Trilho um caminho de estudo pessoal em Ciência da Computação através de fontes gratuita e de boa qualidade.
 
-Através desses estudos, hoje tenho conhecimentos básicos sobre web design responsivo, utilizando HTML, CSS e JavaScript. Também consigo trabalhar com, Git, GitHub, a linguagem Python e o framework React. Meu interesse atual é atuar no desenvolvimento front-end, mas estou aberto a todo tipo de aprendizado.
+Meu interesse atual é atuar no desenvolvimento front-end e estou aberto a todo tipo de aprendizado.
 
 Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
 
