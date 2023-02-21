@@ -12,7 +12,7 @@ Através desses estudos, hoje tenho conhecimentos básicos sobre web design resp
 Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
 
 
-<div align="center" style="display: flex">
+<div>
     <h1><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h1>
 </div>
 
@@ -22,9 +22,9 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
 
 </div>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2>GitHub Analytics</h2>
 
-<div align="center">
+<div>
       <img
       width="388"
       height="180em"
@@ -33,7 +33,7 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
   </a>
 </div>
 <br />
-<div align="center">
+<div>
   
   ## 🛠 &nbsp;Learning About
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -44,15 +44,14 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
   ![Visual Studio
   Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-  <h2 align="center">Social Links</h2>
+  <h2>Social Links</h2>
 
-  <p align="center" style="background: yellow">
+  <p style="background: yellow">
     <a
       href="https://www.linkedin.com/in/valdinei-de-paula-junior-009634230/"
       target="_blank"
     >
       <img
-        align="center"
         src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
         alt="linkedin"
       />
@@ -67,7 +66,7 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
   </p>
 </div>
 
-<div align="center" style="display: flex">
+<div>
   <img
     width="350em"
     height="300em"
