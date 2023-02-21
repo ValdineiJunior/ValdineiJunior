@@ -17,11 +17,9 @@ Pela quantidade de informação disponível na atualidade, resolvi trilhar um ca
 
 Através desses estudos, hoje tenho conhecimentos básicos sobre web design responsivo, utilizando HTML, CSS e JavaScript. Também consigo trabalhar com, Git, GitHub, a linguagem Python e o framework React. Meu interesse atual é atuar no desenvolvimento front-end, mas estou aberto a todo tipo de aprendizado.
 
-Abaixo segue link das fontes de estudo que utilizo:
+Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
 
-Free Code Camp - https://www.freecodecamp.org/learn
-Os Programadores - https://osprogramadores.com/
-Universidade Brasileira Livre - https://github.com/Universidade-Livre/ciencia-da-computacao
+#[Roteiro de estudos](https://github.com/ValdineiJunior/roteiro-de-estudos)
 
 Caso eu possa te ajudar com qualquer dúvida, sugestão ou informação estou à disposição.
 
