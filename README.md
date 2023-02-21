@@ -1,3 +1,4 @@
+ <div align="center" style="display: flex">
  <h1>
    Valdinei Junior
  </h1>
@@ -72,4 +73,5 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
     height="300em"
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
   />
+</div>
 </div>
