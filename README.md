@@ -1,15 +1,6 @@
-<div align="center" style="display: flex">
-  <img
-    width="350em"
-    height="300em"
-    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
-  />
-
-  <h1>
-    Valdinei Junior
-  </h1>
-  
-</div>
+ <h1>
+   Valdinei Junior
+ </h1>
 
 Olá, seja muito bem vindo ao meu breve resumo. Sou Valdinei e comecei a me interessar por Tecnologia da informação no começo do ano de 2021. Depois que conheci o universo de possibilidades que essa área nos disponibiliza, virei um entusiastas da área, consumindo todo tipo de conteúdo. Cursos, podcasts, livros, blogs e entre outros.
 
@@ -73,4 +64,12 @@ Sou grato pelo seu tempo e sua atenção aqui. Que você esteja bem, um abraço!
       />
     </a>
   </p>
+</div>
+
+<div align="center" style="display: flex">
+  <img
+    width="350em"
+    height="300em"
+    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
+  />
 </div>
