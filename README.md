@@ -19,7 +19,13 @@ Através desses estudos, hoje tenho conhecimentos básicos sobre web design resp
 
 Se quiser acompanhar meu roteio de estudos fica aqui meu convite:
 
-#[Roteiro de estudos](https://github.com/ValdineiJunior/roteiro-de-estudos)
+
+<div align="center" style="display: flex">
+  <h1>
+    [Roteiro de estudos](https://github.com/ValdineiJunior/roteiro-de-estudos)
+  </h1>
+  
+</div>
 
 Caso eu possa te ajudar com qualquer dúvida, sugestão ou informação estou à disposição.
 
