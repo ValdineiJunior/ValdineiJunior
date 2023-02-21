@@ -30,7 +30,7 @@ E atualizo semanalmente meu progresso.
 <img
     width="250em"
     height="150em"
-    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/todo.png"
+    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/todol.png"
   />
 </div>
 
