@@ -1,9 +1,9 @@
  <div align="center" style="display: flex">
  <div>
   <img
-    width="350em"
-    height="300em"
-    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/animation_500_kv8i962g.gif"
+    width="100%"
+    height="auto"
+    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/Banner.png"
   />
 </div>
  <h1>
