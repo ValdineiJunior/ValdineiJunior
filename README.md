@@ -3,7 +3,7 @@
   <img
     width="100%"
     height="auto"
-    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/Banner.png"
+    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/banner.png"
   />
 </div>
  <h1>
