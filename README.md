@@ -6,15 +6,12 @@
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/banner.png"
   />
 </div>
- <h1>
-   Valdinei Junior
- </h1>
 
-Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação.E um consumidor de conteúdos relacionados.
+Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação. E um consumidor de conteúdos relacionados.
 
 Trilho um caminho de estudo pessoal em Ciência da Computação através de fontes gratuitas e de boa qualidade.
 
-Meu interesse atual é atuar no desenvolvimento front-end e estou aberto a todo tipo de aprendizado.
+Meu interesse atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento.
  
 <h2>Estudos</h2>
 
