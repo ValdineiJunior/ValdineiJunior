@@ -1,5 +1,5 @@
  <div align="center" style="display: flex">
- <div align="center" style="display: flex">
+ <div>
   <img
     width="350em"
     height="300em"
@@ -16,7 +16,7 @@ Trilho um caminho de estudo pessoal em Ciência da Computação através de font
 
 Meu interesse atual é atuar no desenvolvimento front-end e estou aberto a todo tipo de aprendizado.
  
-<h2 align="center">Estudos</h2>
+<h2>Estudos</h2>
 
 Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
  
@@ -24,19 +24,11 @@ Nele compartilho todas minhas fontes de aprendizado.
 
 E atualizo semanalmente meu progresso.
 
-<div align="center" style="display: flex">
-    <h3><a href="https://github.com/ValdineiJunior/roteiro-de-estudos">Roteiro de estudos</a></h3>
-</div>
-<img
-    width="250em"
-    height="150em"
-    src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/todol.png"
-  />
-</div>
+<a href="https://github.com/ValdineiJunior/roteiro-de-estudos"><img src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/roteiro-de-estudos.png" /></a>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2>GitHub Analytics</h2>
 
-<div align="center">
+<div>
       <img
       width="388"
       height="180em"
@@ -45,7 +37,7 @@ E atualizo semanalmente meu progresso.
   </a>
 </div>
 <br />
-<div align="center">
+<div>
   
   ## 🛠 &nbsp;Learning About
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -56,9 +48,9 @@ E atualizo semanalmente meu progresso.
   ![Visual Studio
   Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-  <h2 align="center">Social Links</h2>
+  <h2>Social Links</h2>
 
-  <p align="center" style="background: yellow">
+  <p style="background: yellow">
     <a
       href="https://www.linkedin.com/in/valdinei-junior-009634230/"
       target="_blank"
@@ -71,6 +63,4 @@ E atualizo semanalmente meu progresso.
     </a>
   </p>
 </div>
-
-
 </div>
