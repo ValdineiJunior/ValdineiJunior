@@ -6,8 +6,6 @@
     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/banner.png"
   />
 </div>
-
- ---
  
 Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação. E um consumidor de conteúdos relacionados.
 
