@@ -13,15 +13,14 @@ Trilho um caminho de estudo pessoal em Ciência da Computação através de font
 
 Meu interesse atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento.
  
-<h2>Estudos</h2>
+<a href="https://github.com/ValdineiJunior/roteiro-de-estudos"><img width="250em"
+    height="75em" src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/roteiro.png" /></a>
 
 Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
  
 Nele compartilho todas minhas fontes de aprendizado.
 
 E atualizo semanalmente meu progresso.
-
-<a href="https://github.com/ValdineiJunior/roteiro-de-estudos"><img src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/roteiro-de-estudos.png" /></a>
 
 <h2>GitHub Analytics</h2>
 
