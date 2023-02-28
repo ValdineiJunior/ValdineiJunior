@@ -16,7 +16,7 @@ Meu interesse atual é atuar no desenvolvimento front-end e continuar adquirindo
  ---
  
 <a href="https://github.com/ValdineiJunior/roteiro-de-estudos"><img width="250em"
-    height="75em" src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/button.png" /></a>
+    height="75em" src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/button-roteiro.png" /></a>
  
 Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
  
