@@ -53,7 +53,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdineijunior&show_icons=true&theme=tokyonight&line_height=20)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=tokyonight)
   
-  <p style="background: yellow">
+  <p>
     <a
       href="https://www.linkedin.com/in/valdinei-junior-009634230/"
       target="_blank"
