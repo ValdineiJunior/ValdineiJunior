@@ -48,9 +48,11 @@
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</a>
-  ![Visual Studio
-  Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdineijunior&show_icons=true&theme=tokyonight&line_height=20)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
   <p style="background: yellow">
     <a
       href="https://www.linkedin.com/in/valdinei-junior-009634230/"
