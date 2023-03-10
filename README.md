@@ -51,7 +51,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdineijunior&show_icons=true&theme=tokyonight&line_height=20)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=tokyonight)
   
   <p style="background: yellow">
     <a
