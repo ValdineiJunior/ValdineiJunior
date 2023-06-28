@@ -21,9 +21,7 @@
   
   <a href="https://github.com/ValdineiJunior/roteiro-de-estudos">
     <img
-      width="250em"
-      height="75em"
-      src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/button-roteiro.png"
+      src="https://i.pinimg.com/originals/78/3a/2e/783a2e6ae6836f78c287e4dc2a7818f4.png"
     />
   </a>
  
