@@ -48,9 +48,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</a>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdineijunior&show_icons=true&theme=tokyonight&line_height=20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdineijunior&layout=compact&theme=tokyonight)
-  
   <p>
     <a
       href="https://www.linkedin.com/in/valdinei-junior-009634230/"
