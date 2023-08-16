@@ -9,15 +9,11 @@
 
 <br>
 
-- ### Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação. E um consumidor de conteúdos relacionados.
+### Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação.
 
-<br>
+### Trilho um caminho de estudo pessoal em Tecnologia utilizando varias fontes de conteúdo.
 
-- ### Trilho um caminho de estudo pessoal em Tecnologia utilizando varias fontes de conteúdo.
-
-<br>
-
-- ### Meu interesse atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento na área.
+### Meu interesse atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento na área.
 
 <br>
   
