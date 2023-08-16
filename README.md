@@ -24,16 +24,16 @@
       src="https://i.pinimg.com/originals/78/3a/2e/783a2e6ae6836f78c287e4dc2a7818f4.png"
     />
   </a>
- 
-  <strong>
-    
-  Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
-    
-  Nele compartilho todas minhas fontes de aprendizado.
-  
-  E atualizo semanalmente meu progresso.
-  
-  </strong>
+
+ <br>
+
+### Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
+
+### Nele compartilho todas minhas fontes de aprendizado.
+
+### E atualizo semanalmente meu progresso.
+
+<br>
   
   ---
  
