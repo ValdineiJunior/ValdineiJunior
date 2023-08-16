@@ -13,7 +13,7 @@
 
 ### Trilho um caminho de estudo pessoal em Tecnologia utilizando varias fontes de conteúdo.
 
-### Meu interesse atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento na área.
+### Meu objetivo atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento na área.
 
 <br>
   
