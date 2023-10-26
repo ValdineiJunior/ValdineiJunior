@@ -11,10 +11,10 @@
 
 ### Hi, I'm Valdinei Junior, a software engineer and tech enthusiast.
 
-## 🚀 Passionate about technology and coding.
-## 📚 Constantly learning and growing.
-## 💼 Currently working as a software engineer.
-## 🔗 Open to new experiences and challenges.
+### Passionate about technology and coding.
+### Constantly learning and growing.
+### Currently working as a software engineer.
+### Open to new experiences and challenges.
 
 <br>
   
@@ -28,11 +28,11 @@
 
  <br>
 
-### Se quiser acompanhar meu roteiro de estudos detalhado fica aqui meu convite.
+### If you want to follow my detailed study itinerary, here is my invitation.
 
-### Nele compartilho todas minhas fontes de aprendizado.
+### In it I share all my sources of learning.
 
-### E atualizo semanalmente meu progresso.
+### And I update my progress weekly.
 
 <br>
   
@@ -57,7 +57,7 @@
       <img
         align="center"
         src="https://img.shields.io/badge/-ValdineiJunior-05122A?style=flat&logo=linkedin"
-        alt="linkedin"
+        alt="LinkedIn"
       />
     </a>
   </p>
