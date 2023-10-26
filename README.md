@@ -9,11 +9,12 @@
 
 <br>
 
-### Olá eu sou o Valdinei Junior, entusiastas de tecnologia e programação.
+### Hi, I'm Valdinei Junior, a software engineer and tech enthusiast.
 
-### Trilho um caminho de estudo pessoal em Tecnologia utilizando varias fontes de conteúdo.
-
-### Meu objetivo atual é atuar no desenvolvimento front-end e continuar adquirindo conhecimento na área.
+## 🚀 Passionate about technology and coding.
+## 📚 Constantly learning and growing.
+## 💼 Currently working as a software engineer.
+## 🔗 Open to new experiences and challenges.
 
 <br>
   
