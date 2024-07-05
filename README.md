@@ -1,13 +1,4 @@
 <div align="center" style="display: flex">
-  <div>
-    <img
-     width="100%"
-     height="auto"
-     src="https://github.com/ValdineiJunior/ValdineiJunior/blob/main/banner.png"
-    />
-  </div>
-
-<br>
 
 ### Hi, I'm Valdinei Junior, a software engineer and tech enthusiast.
 
@@ -15,22 +6,6 @@
 ### Constantly learning and growing.
 ### Currently working as a software engineer.
 ### Open to new experiences and challenges.
-
-<br>
-  
-  ---
-  
-  <a href="https://github.com/ValdineiJunior/roteiro-de-estudos">
-    <img
-      src="https://i.pinimg.com/originals/aa/8d/b8/aa8db84d910ae83e8d1e90fdd2e49c96.png"
-    />
-  </a>
-
- <br>
-
-### If you want to follow my detailed study itinerary, here is my invitation.
-
-### In it I share all my sources of learning.
 
 <br>
   
