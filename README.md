@@ -32,8 +32,6 @@
 
 ### In it I share all my sources of learning.
 
-### And I update my progress weekly.
-
 <br>
   
   ---
