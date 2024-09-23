@@ -4,7 +4,6 @@
 
 ### Passionate about technology and coding.
 ### Constantly learning and growing.
-### Currently working as a software engineer.
 ### Open to new experiences and challenges.
 
 <br>
